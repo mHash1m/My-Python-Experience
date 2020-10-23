@@ -17,6 +17,6 @@
   
   Please find the notebook `competitive-data-science-final-project/predict-future-sales-xgboost.ipynb` included in the folder containing all the code related to the      project.
 
-## Directions for "Titanic":
+## Directions for "Titanic: Top 4% solution":
 
   Please find the notebook `Titanic: Top 4% solution/titanic-a-basic-ensemble-approach-to-get-top-4%` included in the folder.  You may also find it on Kaggle [here](https://www.kaggle.com/hashimchaudry/titanic-a-basic-ensemble-approach-to-get-top-4).
