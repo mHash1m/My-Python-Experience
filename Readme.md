@@ -19,4 +19,4 @@
 
 ## Directions for "Titanic":
 
-  Please find the notebook `Titanic: Top 4% solution/Titanic: A basic ensemble approach to get top 4%` included in the folder containing my approach.  You may also find it on Kaggle [here](https://www.kaggle.com/hashimchaudry/titanic-a-basic-ensemble-approach-to-get-top-4).
+  Please find the notebook `Titanic: Top 4% solution/titanic-a-basic-ensemble-approach-to-get-top-4%` included in the folder.  You may also find it on Kaggle [here](https://www.kaggle.com/hashimchaudry/titanic-a-basic-ensemble-approach-to-get-top-4).
