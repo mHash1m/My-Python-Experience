@@ -3,7 +3,7 @@
   
   The second folder is of a coursera course final project which was actually a kaggle competition. Although I picked out the course to learn a few selected things, however, I proceeded with the final project. Some parts of the project reuse code from another notebook and the credits are mentioned in the notebook. I had to cut down a couple of features and data evaluations and EDA as it was taking excessive resources. 
   
-  The third folder "Facial Expression Recognition" is of a guided project I worked on coursera. Obviously, there was a lot of help from the instructor with helping functions etc, but I got to work on Conv. Nets architecture and using them to create a web-app to recognize facial expressions.  
+  The third folder `Titanic: Top 4% solution` contains my approach to the infamous Titanic Competition on Kaggle. My solution got into the top 4% in the competition.
   
 ## Directions for "daal4py":
   
@@ -17,6 +17,6 @@
   
   Please find the notebook `competitive-data-science-final-project/predict-future-sales-xgboost.ipynb` included in the folder containing all the code related to the      project.
 
-## Directions for "FacialExpressionRecognition":
+## Directions for "Titanic":
 
-  Please find the notebook `FacialExpressionRecognition/Facial_Expression_Training.ipynb` included in the folder containing the my code in the guided project.
+  Please find the notebook `Titanic: Top 4% solution/Titanic: A basic ensemble approach to get top 4%` included in the folder containing my approach.  You may also find it on Kaggle [here](https://www.kaggle.com/hashimchaudry/titanic-a-basic-ensemble-approach-to-get-top-4).
